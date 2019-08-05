@@ -1,8 +1,7 @@
 # Clash-RC-Round-2
 
 Hey, This is to make sure you all have cloned the repo and set git for working with it..
-
-Refer StepsForGit.png in repo to see coomand of linux
+Refer StepsForGit.png in repo to see screenshot of commands of git on terminal
 
 --> These are the steps you need to follow for setting your git with this project's repository..
 
