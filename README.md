@@ -4,30 +4,30 @@ Hey, This is to make sure you all have cloned the repo and set git for working w
 
 --> These are the steps you need to follow for setting your git with this project's repository..
 
-1) download a zip
+1) Create a empty folder in environment folder("myenv" in my case) and name it as "round2".
 
-2) extract that file..
+2) go in that folder by terminal and follow below git commands
 
-3) copy and paste the extracted folder in the your environment folder ("myenv" in my case)..
-
-4) $ git init
-   go to that directory by command line and then write.
+3) $ git init
+   this will create empty repositry in round2 folder
    
-
-5) $ git add .
-   - Adds the files in the local repository and stages them for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
-
-6) $ git remote add origin https://github.com/clash-rc-round-2/Clash-RC-Round-2.git
+4) $ git remote add origin https://github.com/clash-rc-round-2/Clash-RC-Round-2.git
    - Sets the new remote
  
    $ git remote -v   
-   - Verifies the new remote URL
-
+   - Verifies the new remote URL   
    
-Bofore making commit append the list below which you can find in downloaded zip as a readme.md So that I can understand you have completed and set the git by following all 9 steps correctly.
+5) $ git pull origin master
+   Then pull the all code into the round2 folder from the GitHub
+   
+Bofore making commit append the list below which you can find in round2 folder as a readme.md, So that I can understand you have completed and set the git by following all 9 steps correctly.
          
-         --> Gaurav Ghati (2nd Commit)
-         --> Sanchit Raina
+         --> Gaurav Ghati 
+         --> Sanchit Raina  
+         -->
+
+6) $ git add .
+   - Adds the files in the local repository and stages them for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
    
 7) $ git commit -m "Initial commit"
    Then Commit into it by this above command
@@ -38,6 +38,4 @@ Bofore making commit append the list below which you can find in downloaded zip 
    
 9) give your username and password to it
    then it will push all your changes into GitHub
-   
-   
    
