@@ -16,11 +16,12 @@ Hey, This is to make sure you all have cloned the repo and set git for working w
 5) $ git add .
    - Adds the files in the local repository and stages them for commit. To unstage a file, use 'git reset HEAD YOUR-FILE'.
 
-6) - Sets the new remote
-   $ git remote add origin https://github.com/clash-rc-round-2/Clash-RC-Round-2.git
-   
+6) $ git remote add origin https://github.com/clash-rc-round-2/Clash-RC-Round-2.git
+   - Sets the new remote
+ 
+   $ git remote -v   
    - Verifies the new remote URL
-   $ git remote -v
+
    
 Bofore making commit append the list below which you can find in downloaded zip as a readme.txt So that I can understand you have completed and set the git by following all 9 steps correctly.
          
