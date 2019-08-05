@@ -27,7 +27,7 @@ Hey, This is to make sure you all have cloned the repo and set git for working w
 Bofore making commit append the list below which you can find in downloaded zip as a readme.md So that I can understand you have completed and set the git by following all 9 steps correctly.
          
          --> Gaurav Ghati (2nd Commit)
-         --> 
+         --> Sanchit Raina
    
 7) $ git commit -m "Initial commit"
    Then Commit into it by this above command
