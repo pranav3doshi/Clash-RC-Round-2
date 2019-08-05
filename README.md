@@ -2,6 +2,8 @@
 
 Hey, This is to make sure you all have cloned the repo and set git for working with it..
 
+Refer StepsForGit.png in repo to see coomand of linux
+
 --> These are the steps you need to follow for setting your git with this project's repository..
 
 1) Create a empty folder in environment folder("myenv" in my case) and name it as "round2".
